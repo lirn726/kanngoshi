@@ -1,0 +1,46 @@
+div#overlay_btn{
+    position: fixed;
+    bottom: 10px;
+    margin-left: -200px;
+}
+
+div#popup_box{
+    width: 966px;
+}
+
+    div#popup_box div.popup_title{
+        width: 100%;
+        display: flex;
+        background: #01957e;
+        border-radius: 10px 10px 0 0;
+        align-items: center;
+        padding: 1% 2%;
+        box-sizing: border-box;
+        border-bottom: 5px solid #fff;
+    }
+        div#popup_box div.popup_title div.pic{
+            width: 95%;
+        }
+            div#popup_box div.popup_title div.pic img{
+                width: 70%;
+            }
+        div#popup_box div.popup_title div.close{
+            width: 5%;
+        }
+            div#popup_box div.popup_title div.close img{
+                max-width: 100%;
+            }
+    div#popup_box div.popup_body{
+        background-color: #fff;
+        border-left: 1px solid #eee;
+        border-right: 1px solid #eee;
+        height: 600px;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
+    div#popup_box div.popup_footer{
+        height: 20px;
+        background: #01957e;
+        border-radius: 0 0 10px 10px;
+    }
