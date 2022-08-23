@@ -1,0 +1,19 @@
+@media screen and (max-width: 593px){
+    div#popup_box{
+        width: 98%;
+    }
+        div#popup_box div.popup_body{
+            height: 400px;
+        }
+        div#popup_box div.popup_title div.pic img{
+            width:100%;
+        }
+    div#overlay_btn{
+        margin-left:5px;
+        width: 100%;
+    }
+        div#overlay_btn img{
+            width: 35%;
+        }
+    
+}

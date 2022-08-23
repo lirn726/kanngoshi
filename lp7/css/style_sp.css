@@ -1,0 +1,48 @@
+@media  screen and (max-width: 953px){
+*{
+	overflow-x: hidden;
+}
+div#la_header {
+    width: 100%;
+}
+header div p{
+				   width: 100%;
+				   padding: 1px 1%;
+				   text-align: left;
+				   box-sizing: border-box;
+			}
+div#main_html {
+    padding: 15px;
+    width: 100%;
+}
+.main{
+	    width: 100%;
+	    margin: 15px auto;
+}
+	div#main_html h2.html_title {
+		font-size: 16px;
+	}
+#header {
+	min-width: 100%;
+	/* background-size: 100%; */
+	background: none;
+	height: auto;
+}
+	#logo {
+		background-size: 135%;
+		background-position: top center;
+		height: 45vw;
+	}
+	#logo h1 {
+		font-size: 3vw;
+		width: 100%;
+	}
+	#logo h1 img {
+		width: 80%;
+	}
+#main {
+	width: 96%;
+	padding-top: 0;
+}
+
+}
