@@ -123,17 +123,35 @@ if(count($_GET)){
 	<img src="images/comics_12.png" />
 </div>
 <div class="pic">
-	<img src="images/comics_13.png" />
+	<img src="images/comics_24.png" />
 </div>
 
 <div class="btn_a">
 	<p>＼好条件常勤（日勤/夜勤)求人豊富／</p>
-    <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp7&btn_id=1"  target="_blank">
-		医療ワーカーの求人を確認
+    <a href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp7&btn_id=1"  target="_blank">
+		マイナビ看護師の求人を確認
 		<div class="button__triangle"></div>
         <div class="reflection"></div>
     </a>
 	<p class="btn_bottomtext">↑3か月以内に転職したいならココ！↑</p>
+</div>
+
+<div class="pic">
+	<img src="images/comics_25.png" />
+</div>
+
+<div class="pic">
+	<img src="images/comics_26.png" />
+</div>
+
+<div class="btn_a">
+	<p>＼高年収・好待遇の非公開求人豊富／</p>
+    <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp7&btn_id=2"  target="_blank">
+		医療ワーカーの求人を確認
+		<div class="button__triangle"></div>
+        <div class="reflection"></div>
+    </a>
+	<p class="btn_bottomtext">↑手厚いサポートで高い転職実績↑</p>
 </div>
 
 <div class="pic">
@@ -143,18 +161,18 @@ if(count($_GET)){
 	<img src="images/comics_15.png" />
 </div>
 <div class="pic">
-	<img src="images/comics_16.png" />
+	<img src="images/comics_27.png" />
 </div>
 <div class="pic">
 	<img src="images/comics_17.png" />
 </div>
 <div class="pic">
-	<img src="images/comics_23.png" />
+	<img src="images/comics_28.png" />
 </div>
 
 <div class="btn_a">
 	<p>＼好条件常勤（日勤/夜勤)求人豊富／</p>
-    <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp7&btn_id=2"  target="_blank">
+    <a href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp7&btn_id=3"  target="_blank">
 		高年収・好条件求人チェックする
 		<div class="button__triangle"></div>
         <div class="reflection"></div>
@@ -177,8 +195,8 @@ if(count($_GET)){
 
 <div class="btn_a">
 	<p>＼好条件常勤（日勤/夜勤)求人豊富／</p>
-    <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp7&btn_id=3"  target="_blank">
-		今すぐ医療ワーカーに登録
+    <a href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp7&btn_id=4"  target="_blank">
+		今すぐマイナビ看護師に登録
 		<div class="button__triangle"></div>
         <div class="reflection"></div>
     </a>
@@ -186,12 +204,12 @@ if(count($_GET)){
 </div>
 
 <div class="pic">
-	<img src="images/img_1.png" />
+	<img src="images/img_3.png" />
 </div>
 
 <div class="block b">
 	<h3>最短1ヶ月で転職!圧倒的な実績!</h3>
-	<p>看護師からの支持率<span>4年連続No.1!</span><br/><span>年収500万以上</span>の魅力的な非公開求人多数! 高年収・好待遇の優良求人圧倒的に多い!</p>
+	<p>人材大手マイナビ運営、5年連続認知度No.1!<br/><span>20代~40代常勤ナースが選んだNo.1サイト!</span><br/>高年収・好待遇の優良求人圧倒的に多い!</p>
 </div>
 <div class="block b">
 	<h3>コンサルタントにじっくり相談!</h3>
@@ -208,18 +226,198 @@ if(count($_GET)){
 
 <div class="btn_a">
 	<p>＼好条件常勤（日勤/夜勤)求人豊富／</p>
-    <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp7&btn_id=4"  target="_blank">
-		医療ワーカー公式サイト
+    <a href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp7&btn_id=5"  target="_blank">
+		マイナビ看護師公式サイト
 		<div class="button__triangle"></div>
         <div class="reflection"></div>
     </a>
 	<p class="btn_bottomtext">↑3か月以内に転職したいならココ！↑</p>
 </div>
 
+<div class="pic">
+    <img src="images/pic_26.png" />
+</div>
+
+<div class="pic_title" id="num04">
+	<img src="./images/pic_46.png" />
+</div>
+<div class="flex">
+    <div class="flex_img">
+        <img src="images/pic_3.png">
+    </div>
+    <h2 class="flex_text">
+        <span class="white">看護師からの支持率4年連続No.1
+		</span><br>
+        <a class="big"  target="_blank">医療ワーカー</a>
+    </h2>
+</div>
+
+<div class="frame">
+  <div class="pic">
+      <img class="desc" src="images/pic_3_1<?=isSP()?'_sp':''?>.png" class="Square_pic">
+  </div>
+  <div class="table">
+     <table>
+         <tr>
+            <th>エリア</th>
+			<td>全国</td>
+         </tr>
+		 <tr>
+		    <th>雇用形態</th>
+		 	<td>常勤/非常勤</td>
+		 </tr>
+		 <tr>
+		    <th>求人数</th>
+		 	<td>90,000件以上</td>
+		 </tr>
+         <tr>
+            <th>サポート</th>
+         	<td><img src="images/pic_3_2.png"><img src="images/pic_3_2.png"><img src="images/pic_3_2.png"><img src="images/pic_3_2.png"><img src="images/pic_3_2.png"></td>
+         </tr>
+     </table>
+  </div>
+  <div class="lp5_text">
+	  <div class="pink_title__box">
+	  		  <p class="pink_title"><span class="pink_title__text">＼医療ワーカーの特徴／</span></p>
+	  </div>
+      <p><span><span class="square">■</span>圧倒的な求人数、非公開求人がスゴイ！</span><span class="red">8万件以上</span>の非公開求人を保有！
+      </p>
+      <p><span><span class="square">■</span>高年収・好条件の求人が多い！</span><span class="red">月給40～50万円以上</span>の求人が多数、年収大幅アップで転職できる！
+      </p>
+      <p><span><span class="square">■</span>応援ナース（応援看護師制度）のサービスを提供！</span><span class="red">短期間・高収入</span>で勤務するサービスを提供！
+      </p>
+  </div>
+  
+  <div class="lp5_text person__box">
+  	  <h1 class="person__title">医療ワーカーの口コミ</h1>
+  	  <div class="person__talk__box">
+  		  <div class="person__talk">
+  		  		  <div class="person__line person__line__border">
+  		  			  <div class="person__left">
+  		  				  <img src="images/person4.png" />
+  		  				  <p>(香川県・25歳)</p>
+  		  			  </div>
+  		  			  <div class="lp5_person__right">
+  		  				  <p>求人の情報量が他の転職サイトより多い印象。</p>
+  		  			  </div>
+  		  		  </div>
+  				  <div class="person__line person__line__border person__line__top">
+  				  		<div class="person__left">
+  							<img src="images/person5.png" />
+  				  		  	<p>(愛知県・28歳)</p>
+  				  		</div>
+  				  		<div class="lp5_person__right">
+  				  		  	<p>キャリアアドバイザーの方が頻繁に連絡を取ってくれたので良かったです。</p>
+  				  		</div>
+  				  </div>
+  				  <div class="person__line person__line__top">
+  				  		<div class="person__left">
+  				  		  	<img src="images/person1.png" />
+  				  		  	<p>(神奈川県・31歳)</p>
+  				  		</div>
+  				  		<div class="lp5_person__right">
+  				  		  	<p>求人の情報量が多いだけでなく、自己PRや内定辞退の例文コラムがとても参考になりました。</p>
+  				  		</div>
+  				  </div>
+  		  </div>
+  	  </div>
+  </div>
+  
+  <div class="btn_a">
+      <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp3&button_id=iryouworker1"target="_blank"<?=isSP()?' style="font-size:5vw;"':''?>>
+      高収入の転職なら医療ワーカー
+		  <div class="button__triangle"></div>
+          <div class="reflection"></div>
+      </a>
+  </div>
+</div> 
+
+<div class="main__table PC">
+	<div class="main__table__body">
+	   <table  border="0" cellpadding="0" cellspacing="0">
+	     <tr>
+				 <th class="table__icon__box"><span class="tabe__title__pc">順位</span></th>
+	       <th class="first__column"><span class="tabe__title__pc">転職サイト名</span><span class="tabe__title__sp">転職<br>サイト名</span></th>
+	     	 <th class="table__icon__box"><span class="tabe__title__pc">総合満足度</span><span class="tabe__title__sp">総合<br>満足度</span></th>
+	     	 <th class="table__icon__box"><span class="tabe__title__pc">求人数</span><span class="tabe__title__sp">求人数</span></th>
+			   <th class="table__icon__box tabe__pc"><span>非公開求人</span></th>
+	     	 <th class="last__column"><span class="tabe__title__pc">詳細</span><span class="tabe__title__sp">詳細</span></th>
+	    </tr>
+				
+			<tr>
+			 	 <td class="table__icon__box"><img src="images/num01.png" class="num_pic"></span></td>
+			   <td class="first__column"><img src="images/company_1.png" title="マイナビ看護師"></td>
+			   <td class="table__icon__box"><span class="icon"><img src="images/grade_1.png"></span><br><span>4.9</span></td>
+			   <td class="table__icon__box"><span class="icon"><img src="images/grade_2.png"></span><br><span>52,000</span></td>
+				 <td class="table__icon__box tabe__pc"><span class="icon"><img src="images/grade_1.png"></span><br><span>普通</span></td>
+			   <td class="last__column"><a href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp5&chart_id=2" class="table_button">公式サイト</a></td>
+			</tr>
+			
+			<tr>
+				 <td class="table__icon__box"><img src="images/num02.png" class="num_pic"></span></td>
+				 <td class="first__column"><img src="images/company_2.png" title="医療ワーカー"></td>
+				 <td class="table__icon__box"><span class="icon"><img src="images/grade_2.png"></span><br><span>4.7</span></td>
+			 	 <td class="table__icon__box"><span class="icon"><img src="images/grade_3.png"></span><br><span>非公開</span></td>
+				 <td class="table__icon__box tabe__pc"><span class="icon"><img src="images/grade_1.png"></span><br><span>多い</span></td>
+				 <td class="last__column"><a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp5&chart_id=3" class="table_button">公式サイト</a></td>
+			</tr>
+	      
+	   </table>
+	</div>
+</div>
+
+<div class="main__table SP">
+	<div class="main__table__body">
+
+		<table cellpadding="0" cellspacing="0">
+		     <tr>
+		         <td rowspan="2" class="first__column">
+		         <img class="table__icon" src="images/num01.png" alt="1"/><br/><img src="images/company_1.png" title="マイナビ看護師"><br/>
+		         </td>
+		         <th>総合<br>満足度</th>
+		         <th>求人数</th>
+		         <th>非公開求人</th>
+		     </tr>
+		     <tr>
+		         <td><span class="icon"><img src="images/grade_1.png"></span><br><span>4.9</span></td>
+		         <td><span class="icon"><img src="images/grade_2.png"></span><br><span>52,000</span></td>
+		         <td><span class="icon"><img src="images/grade_1.png"></span><br><span>普通</span></td>
+		     </tr>
+		     <tr>
+		         <td colspan="4">
+		             <a href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp5&chart_id=2" class="table_button">公式サイト</a>
+		         </td>
+		     </tr>
+		</table>
+		
+		<table cellpadding="0" cellspacing="0">
+		     <tr>
+		         <td rowspan="2" class="first__column">
+		         <img class="table__icon" src="images/num02.png" alt="2"/><br/><img src="images/company_2.png" title="医療ワーカー"><br/>
+		         </td>
+		         <th>総合<br>満足度</th>
+		         <th>求人数</th>
+		         <th>非公開求人</th>
+		     </tr>
+		     <tr>
+		         <td><span class="icon"><img src="images/grade_2.png"></span><br><span>4.7</span></td>
+		         <td><span class="icon"><img src="images/grade_3.png"></span><br><span>非公開</span></td>
+		         <td><span class="icon"><img src="images/grade_1.png"></span><br><span>多い</span></td>
+		     </tr>
+		     <tr>
+		         <td colspan="4">
+		             <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp5&chart_id=3" class="table_button">公式サイト</a>
+		         </td>
+		     </tr>
+		</table>
+	</div>
+</div>
+
+
 <!--pop content start-->
 <div id="pop_img_leave" class="pop_img">
 	<a class="pop_img__close" href="javascript:void($('#pop_img_leave').popup('hide'));"><img src="images/pop_img_close.png"/></a>
-	<a class="pop_img__link" href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp7&btn_id=pop">
+	<a class="pop_img__link" href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp7&btn_id=pop">
 		<img src="images/pop_img_leave.png"/>
 	</a>
 </div>
