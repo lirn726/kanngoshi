@@ -324,7 +324,7 @@ if(count($_GET)){
   </div>
   
   <div class="btn_a">
-      <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp3&button_id=iryouworker1"target="_blank"<?=isSP()?' style="font-size:5vw;"':''?>>
+      <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp7&button_id=iryouworker1"target="_blank"<?=isSP()?' style="font-size:5vw;"':''?>>
       高収入の転職なら医療ワーカー
 		  <div class="button__triangle"></div>
           <div class="reflection"></div>
@@ -350,7 +350,7 @@ if(count($_GET)){
 			   <td class="table__icon__box"><span class="icon"><img src="images/grade_1.png"></span><br><span>4.9</span></td>
 			   <td class="table__icon__box"><span class="icon"><img src="images/grade_2.png"></span><br><span>52,000</span></td>
 				 <td class="table__icon__box tabe__pc"><span class="icon"><img src="images/grade_1.png"></span><br><span>普通</span></td>
-			   <td class="last__column"><a href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp5&chart_id=2" class="table_button">公式サイト</a></td>
+			   <td class="last__column"><a href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp7&chart_id=2" class="table_button">公式サイト</a></td>
 			</tr>
 			
 			<tr>
@@ -359,7 +359,7 @@ if(count($_GET)){
 				 <td class="table__icon__box"><span class="icon"><img src="images/grade_2.png"></span><br><span>4.7</span></td>
 			 	 <td class="table__icon__box"><span class="icon"><img src="images/grade_3.png"></span><br><span>非公開</span></td>
 				 <td class="table__icon__box tabe__pc"><span class="icon"><img src="images/grade_1.png"></span><br><span>多い</span></td>
-				 <td class="last__column"><a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp5&chart_id=3" class="table_button">公式サイト</a></td>
+				 <td class="last__column"><a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp7&chart_id=3" class="table_button">公式サイト</a></td>
 			</tr>
 	      
 	   </table>
@@ -385,7 +385,7 @@ if(count($_GET)){
 		     </tr>
 		     <tr>
 		         <td colspan="4">
-		             <a href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp5&chart_id=2" class="table_button">公式サイト</a>
+		             <a href="https://www.kanngoshi.net/jump/ms_mynavi-kango.html?lp=lp7&chart_id=2" class="table_button">公式サイト</a>
 		         </td>
 		     </tr>
 		</table>
@@ -406,7 +406,7 @@ if(count($_GET)){
 		     </tr>
 		     <tr>
 		         <td colspan="4">
-		             <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp5&chart_id=3" class="table_button">公式サイト</a>
+		             <a href="https://www.kanngoshi.net/jump/ms_iryouworker.html?lp=lp7&chart_id=3" class="table_button">公式サイト</a>
 		         </td>
 		     </tr>
 		</table>
